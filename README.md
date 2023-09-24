@@ -4,5 +4,6 @@ Yet, it has not been getting as much attention as it should have...
 
 Since forest fires destroy a lot of wildlife, we created this game to raise awareness of the destruction of forest fires.
 The characters, Aurora and Byte, start walking in a peaceful forest when there are suddenly serious wildfires, and the environment ends in disaster. 
-From there, Aurora has to choose either to return to the firey disaster or move to the next scenario. 
+From there, Aurora has to either return to the firey disaster or move to the next scenario. 
+
 What should Aurora and Byte choose? Play the game to help her find out!!
